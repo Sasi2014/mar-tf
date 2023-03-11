@@ -1,2 +1,2 @@
 name="tfvar-rg"
-loc="west us"
+loc="east us"
