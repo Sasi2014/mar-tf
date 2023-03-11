@@ -2,6 +2,6 @@ variable "name" {
 default="var-rg"
 }
 variable "loc" {
-default="central india"
+default="east us2"
 sensitive="true"
 }
