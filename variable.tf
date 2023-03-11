@@ -1,5 +1,5 @@
 variable "name" {
-default="var-rg"
+default="tf-pipe-rg"
 }
 variable "loc" {
 default="east us2"
